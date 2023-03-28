@@ -1,8 +1,8 @@
-# Getir Clone with Create React App
+# Getir Clone with Create React App - Tailwind
 <p><img src="https://github.com/ergulkizilkaya/react-getir-clone/blob/main/demo-view.png" width="100%"/></p>
 
 # Live Preview
-Demo: <a href="https://react-getir-clone-ergulkizilkaya.netlify.app" target="_blank">react-getir-clone-ergulkizilkaya.netlify.app</a>
+Demo: https://react-getir-clone-ergulkizilkaya.netlify.app/
 
 # Getting Started with Create React App
 
