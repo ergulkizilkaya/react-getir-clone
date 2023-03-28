@@ -2,7 +2,7 @@
 <p><img src="https://github.com/ergulkizilkaya/react-getir-clone/blob/main/demo-view.png" width="100%"/></p>
 
 # Live Preview
-Demo: [react-getir-clone-ergulkizilkaya.netlify.app](https://react-getir-clone-ergulkizilkaya.netlify.app/){:target="_blank" rel="noopener"}
+Demo: <a href="https://react-getir-clone-ergulkizilkaya.netlify.app" target="_blank">https://react-getir-clone-ergulkizilkaya.netlify.app</a>
 
 # Getting Started with Create React App
 
