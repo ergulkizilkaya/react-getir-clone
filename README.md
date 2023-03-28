@@ -1,5 +1,5 @@
 # Getir Clone with Create React App - Tailwind
-<p><img src="https://github.com/ergulkizilkaya/react-getir-clone/blob/main/React%20-%20TaIlwInd.pn" width="100%"/></p>
+<p><img src="https://github.com/ergulkizilkaya/react-getir-clone/blob/main/React%20-%20TaIlwInd.png" width="100%"/></p>
 <p><img src="https://github.com/ergulkizilkaya/react-getir-clone/blob/main/demo-view.png" width="100%"/></p>
 
 # Live Preview
