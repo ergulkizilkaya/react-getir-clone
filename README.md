@@ -1,6 +1,9 @@
 # Getir Clone with Create React App
 <p><img src="https://github.com/ergulkizilkaya/react-getir-clone/blob/main/demo-view.png" width="100%"/></p>
 
+# Live Preview
+Demo: https://react-getir-clone-ergulkizilkaya.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
